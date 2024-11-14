@@ -1,0 +1,62 @@
+2024-11-09 16:07:12,445 - INFO - Starting data cleaning process
+2024-11-09 16:07:12,445 - INFO - Processing user_tweet_career.csv
+2024-11-09 16:07:12,466 - INFO - Cleaned user_tweet_career.csv: removed 0 rows
+2024-11-09 16:07:12,473 - INFO - Saved cleaned file to cleaned-data/cleaned_user_tweet_career.csv
+2024-11-09 16:07:12,473 - INFO - Processing entities_media.csv
+2024-11-09 16:07:12,475 - INFO - Cleaned entities_media.csv: removed 0 rows
+2024-11-09 16:07:12,476 - INFO - Saved cleaned file to cleaned-data/cleaned_entities_media.csv
+2024-11-09 16:07:12,477 - INFO - Processing network_reply.csv
+2024-11-09 16:07:12,479 - INFO - Cleaned network_reply.csv: removed 0 rows
+2024-11-09 16:07:12,480 - INFO - Saved cleaned file to cleaned-data/cleaned_network_reply.csv
+2024-11-09 16:07:12,480 - INFO - Processing view_author_hashtag.csv
+2024-11-09 16:07:12,481 - INFO - Cleaned view_author_hashtag.csv: removed 0 rows
+2024-11-09 16:07:12,482 - INFO - Saved cleaned file to cleaned-data/cleaned_view_author_hashtag.csv
+2024-11-09 16:07:12,482 - INFO - Processing user_timezone.csv
+2024-11-09 16:07:12,484 - INFO - Cleaned user_timezone.csv: removed 0 rows
+2024-11-09 16:07:12,486 - INFO - Saved cleaned file to cleaned-data/cleaned_user_timezone.csv
+2024-11-09 16:07:12,486 - INFO - Processing twitter_user.csv
+2024-11-09 16:07:12,494 - INFO - Cleaned twitter_user.csv: removed 0 rows
+2024-11-09 16:07:12,497 - INFO - Saved cleaned file to cleaned-data/cleaned_twitter_user.csv
+2024-11-09 16:07:12,497 - INFO - Processing tweet_metadata.csv
+2024-11-09 16:07:12,501 - INFO - Cleaned tweet_metadata.csv: removed 0 rows
+2024-11-09 16:07:12,504 - INFO - Saved cleaned file to cleaned-data/cleaned_tweet_metadata.csv
+2024-11-09 16:07:12,504 - INFO - Processing geotagged_tweets.csv
+2024-11-09 16:07:12,506 - INFO - Cleaned geotagged_tweets.csv: removed 0 rows
+2024-11-09 16:07:12,507 - INFO - Saved cleaned file to cleaned-data/cleaned_geotagged_tweets.csv
+2024-11-09 16:07:12,507 - INFO - Processing withheld_tweets.csv
+2024-11-09 16:07:12,508 - INFO - Cleaned withheld_tweets.csv: removed 0 rows
+2024-11-09 16:07:12,509 - INFO - Saved cleaned file to cleaned-data/cleaned_withheld_tweets.csv
+2024-11-09 16:07:12,509 - INFO - Processing entities_url.csv
+2024-11-09 16:07:12,511 - INFO - Cleaned entities_url.csv: removed 0 rows
+2024-11-09 16:07:12,512 - INFO - Saved cleaned file to cleaned-data/cleaned_entities_url.csv
+2024-11-09 16:07:12,512 - INFO - Processing tweet_text.csv
+2024-11-09 16:07:12,514 - INFO - Cleaned tweet_text.csv: removed 0 rows
+2024-11-09 16:07:12,515 - INFO - Saved cleaned file to cleaned-data/cleaned_tweet_text.csv
+2024-11-09 16:07:12,515 - INFO - Processing entities_mention.csv
+2024-11-09 16:07:12,516 - INFO - Cleaned entities_mention.csv: removed 0 rows
+2024-11-09 16:07:12,517 - INFO - Saved cleaned file to cleaned-data/cleaned_entities_mention.csv
+2024-11-09 16:07:12,517 - INFO - Processing view_retweet_graph.csv
+2024-11-09 16:07:12,518 - INFO - Cleaned view_retweet_graph.csv: removed 0 rows
+2024-11-09 16:07:12,520 - INFO - Saved cleaned file to cleaned-data/cleaned_view_retweet_graph.csv
+2024-11-09 16:07:12,520 - INFO - Processing view_activity.csv
+2024-11-09 16:07:12,522 - INFO - Cleaned view_activity.csv: removed 0 rows
+2024-11-09 16:07:12,523 - INFO - Saved cleaned file to cleaned-data/cleaned_view_activity.csv
+2024-11-09 16:07:12,523 - INFO - Processing network_retweet.csv
+2024-11-09 16:07:12,526 - INFO - Cleaned network_retweet.csv: removed 0 rows
+2024-11-09 16:07:12,527 - INFO - Saved cleaned file to cleaned-data/cleaned_network_retweet.csv
+2024-11-09 16:07:12,527 - INFO - Processing entities_hashtag.csv
+2024-11-09 16:07:12,528 - INFO - Cleaned entities_hashtag.csv: removed 0 rows
+2024-11-09 16:07:12,529 - INFO - Saved cleaned file to cleaned-data/cleaned_entities_hashtag.csv
+2024-11-09 16:07:12,529 - INFO - Processing user_profile.csv
+2024-11-09 16:07:12,532 - INFO - Cleaned user_profile.csv: removed 0 rows
+2024-11-09 16:07:12,534 - INFO - Saved cleaned file to cleaned-data/cleaned_user_profile.csv
+2024-11-09 16:07:12,534 - INFO - Processing network_quote.csv
+2024-11-09 16:07:12,537 - INFO - Cleaned network_quote.csv: removed 0 rows
+2024-11-09 16:07:12,538 - INFO - Saved cleaned file to cleaned-data/cleaned_network_quote.csv
+2024-11-09 16:07:12,538 - INFO - Processing view_user_stats.csv
+2024-11-09 16:07:12,539 - INFO - Cleaned view_user_stats.csv: removed 0 rows
+2024-11-09 16:07:12,540 - INFO - Saved cleaned file to cleaned-data/cleaned_view_user_stats.csv
+2024-11-09 16:07:12,540 - INFO - Processing view_author_hashtag_stats.csv
+2024-11-09 16:07:12,542 - INFO - Cleaned view_author_hashtag_stats.csv: removed 0 rows
+2024-11-09 16:07:12,543 - INFO - Saved cleaned file to cleaned-data/cleaned_view_author_hashtag_stats.csv
+2024-11-09 16:07:12,543 - INFO - Data cleaning completed successfully
